@@ -10,6 +10,7 @@ end
 cat.name = "Maru"
 
   def meow
+    @meow = cat.name
     puts "meow!"
   end 
   
