@@ -12,8 +12,7 @@ end
 
 
   def meow
-    @meow = puts "#{cat.name+"meow!"}"
-   
+  
   end 
  
  
