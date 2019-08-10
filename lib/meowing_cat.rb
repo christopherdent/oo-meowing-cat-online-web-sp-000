@@ -15,7 +15,7 @@ cat.name = "Maru"
     @meow = puts "#{cat.name+"meow!"}"
    
   end 
-end 
+ 
  
 
  
