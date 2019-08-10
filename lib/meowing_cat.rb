@@ -9,9 +9,11 @@ end
 
 cat.name = "Maru"
 
+
+
   def meow
-    @meow = cat.name
-    puts "meow!"
+    @meow = puts "#{cat.name+"meow!"}""
+   
   end 
   
  
