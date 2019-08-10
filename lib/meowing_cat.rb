@@ -10,7 +10,7 @@ end
 cat.name = "Maru"
 
   def meow
-    puts "meow!"
+    puts cat."meow!"
   end 
   
  
